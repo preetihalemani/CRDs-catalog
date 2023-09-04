@@ -876,7 +876,7 @@
         "patroni": {
           "type": "object",
           "properties": {
-            "enable_patroni_failsafe_mode": {
+            "failsafe_mode": {
               "type": "boolean",
               "default": false
             }
